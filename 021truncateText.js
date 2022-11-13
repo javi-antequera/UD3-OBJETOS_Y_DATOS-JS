@@ -11,4 +11,5 @@ function truncate(str,maxlength){
     }
 }
 document.write(truncate("Lo que me gustaría contar sobre este tema es:", 20));
+document.write("<br>")
 document.write(truncate("Hola a todos!", 20));
