@@ -1,3 +1,4 @@
+"use strict"
 let i = 0;
 while (i.toFixed(1) != 10) {
   i += 0.2;

@@ -1,3 +1,4 @@
+"use strict"
 function truncate(str,maxlength){
     let array=str.split("");
     if(array.length<=maxlength){

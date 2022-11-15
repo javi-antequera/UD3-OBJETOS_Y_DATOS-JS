@@ -1,3 +1,4 @@
+"use strict"
 let user=new Object();  
 user.name="Jonh Snow";
 user.surname="Sam Sagaz";

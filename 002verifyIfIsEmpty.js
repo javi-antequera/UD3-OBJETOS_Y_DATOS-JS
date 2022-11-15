@@ -1,3 +1,4 @@
+"use strict"
 function isEmpty(objeto){
     if(Object.keys(objeto).length===0){
         return true;

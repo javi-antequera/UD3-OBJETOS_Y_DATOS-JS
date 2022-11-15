@@ -1,3 +1,4 @@
+"use strict"
 let disney = [
     { nombre: "Hércules", pelicula: "Hércules" },
     { nombre: "Megana", pelicula: "Hércules" },

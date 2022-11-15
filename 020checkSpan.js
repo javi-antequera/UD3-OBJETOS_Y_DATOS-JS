@@ -1,3 +1,4 @@
+"use strict"
 function checkSpam(str){
     //Transformo el string entero a mayusculas para que no influyan en la comparacion
     let mayus=str.toUpperCase();

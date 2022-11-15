@@ -1,3 +1,4 @@
+"use strict"
 let personajes = [
     {id: 1, name: "Peter Parker", age: 21},
     {id: 2, name: "Steve", age: 64},

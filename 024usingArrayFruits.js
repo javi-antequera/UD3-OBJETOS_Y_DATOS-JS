@@ -1,4 +1,5 @@
-var fruits = ["Banana", "Manzana", "Fresa"];
+"use strict"
+let fruits = ["Banana", "Manzana", "Fresa"];
 //Añadimos cereza al principio
 fruits.unshift("Cereza");
 //Añadimos melocotón al final

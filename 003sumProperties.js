@@ -1,3 +1,4 @@
+"use strict"
 let salaries = {
     Harry: 100,
     Ron: 160,

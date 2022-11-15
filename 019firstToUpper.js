@@ -1,3 +1,4 @@
+"use strict"
 function ucFirst(str){
     let array= str.split("");
     let mayus="";

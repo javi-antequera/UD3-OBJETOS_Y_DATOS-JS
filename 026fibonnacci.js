@@ -1,3 +1,4 @@
+"use strict"
 let fibonacci=new Array(20);
 fibonacci[0]=0;
 fibonacci[1]=1;

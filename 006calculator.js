@@ -1,3 +1,4 @@
+"use strict"
 let calculator={
     read(){
         this.a=parseInt(prompt("Escribe el primer numero"));

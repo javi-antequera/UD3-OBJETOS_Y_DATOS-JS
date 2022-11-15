@@ -1,3 +1,4 @@
+"use strict"
 let grupos = [
     {nombre: "ACDC", genero: "Rock"},
     {nombre: "Cold Play", genero: "Pop"},

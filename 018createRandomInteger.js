@@ -1,3 +1,4 @@
+"use strict"
 function randomInteger(min,max){
     let num= min +Math.random() * (max - min);
     return Math.round(num);

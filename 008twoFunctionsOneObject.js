@@ -1,3 +1,4 @@
+"use strict"
 function A() { "a" }
 function B() { "a" }
 let a = new A();

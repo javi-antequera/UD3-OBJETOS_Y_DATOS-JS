@@ -1,3 +1,4 @@
+"use strict"
 function camelice(str){
     let array=str.split("");//Divido el string en un array de char
     let array2=[];//Array para guardar el string sin las _
